@@ -1,0 +1,19 @@
+body {
+  background-color: red;
+}
+
+.bill {
+  color: red;
+}
+.btn1 {
+  color: red;
+}
+
+section {
+  color: rgb(0, 17, 255);
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  background-color: rgb(155, 238, 144);
+}
